@@ -1,0 +1,1 @@
+https://steemit.com/polish/@anna.urbanska/jakie-obrazy-z-sieci-mozesz-wykorzystac-do-swojego-posta
