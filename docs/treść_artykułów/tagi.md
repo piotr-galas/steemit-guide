@@ -1,6 +1,6 @@
 ## Dodawanie tagów
 
-Każdy dodany artykuł powinien być otagowany. Pierwszy tag jaki się dodaje, staje się kategorią i to tak naprawdę do niego należy artykuł.
+Każdy dodany artykuł powinien być otagowany. Pierwszy tag jaki się dodaje, staje się kategorią.
 Aby ułatwić innym wyszukiwanie, warto stosować następującą konwencje.
  
 Jeśli piszemy artykuł po polsku i chcemy użyć jako tagu nazwy międzynarodowej np:
@@ -38,7 +38,7 @@ Wpisy powinny być długie (w sensie nie jeden akapit, ale bardziej rozbudowane)
 Oraz najważniejsze, powinny nieść za sobą jakąś wartość dla czytającego.    
 [nowy tag dla polskich artykułów pl-artykuly](https://steemit.com/pl-artykuly/@fervi/nowy-tag-dla-polskich-artykulow-pl-artykuly)
 
-**tematygodnia** 
+**tematygodnia**   
 Inicjatywa mająca na celu rozruszanie polskiej społeczności. Co tydzień publikowane są tematy na które można pisać, aby wziąć udział w konkursie.
 Później wszyscy głosują na najlepszy artykuł, a zwycięzca dostaje drobną nagrodę w postaci STEEM.  
 [tematy tygodnia tematygodnia 9 rozruszajmy polską-społeczność](https://steemit.com/tematygodnia/@steemit-polska/tematy-tygodnia-tematygodnia-9-rozruszajmy-polska-spolecznosc)
@@ -48,6 +48,6 @@ Jak sama nazwa wskazuje tego tagu używamy na początku aby napisać parę słó
  wpisy z tym tagiem są wyjątkowo dużo warte. Dobrym zwyczajem jest umieszczenie zdjęcia z logo Steemit. Dzięki temu wiadomo, że zdjęcie jest aktualne.  
 [introduceyourself](https://steemit.com/trending/introduceyourself) 
 
-**busy**
+**busy**  
 Dodając taki tag, możemy liczyć na upvote uzytkownika [@busy.org](https://steemit.com/@busy.org)
 [używanie busy.org](https://steemit.com/polish/@elysiian/uzywanie-busy-org)
