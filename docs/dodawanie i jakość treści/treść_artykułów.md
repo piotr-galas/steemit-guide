@@ -1,5 +1,3 @@
-# Treść artykułów
-
 ## Zasady pisania artykułów:
 
 Na podstawie [ultimatum-dla-niektorych-w-sieci-steem](https://steemit.com/polish/@fervi/ultimatum-dla-niektorych-w-sieci-steem)
@@ -28,10 +26,10 @@ Ale jak to?! Po prostu - nie musisz mieć w prawie zapisane "nie wolno pluć na 
 **Jak czegoś nie wiesz - pytaj, chętnie pomożemy.**  
 Polskie community jest bardzo pomocne, zawsze możesz zadać pytanie na [chat-cie](https://steemit.chat/channel/polish)
 
-## Przewodnik audio odnośnie dodawania artykułów
+## Przewodnik audio odnośnie treści i dodawania artykułów
 
 
-o-czym-i-w-jaki-sposb-pisa-by-by-zauwaonym](https://steemit.com/dsound/@noisy2/o-czym-i-w-jaki-sposb-pisa-by-by-zauwaonym)
+[O czym i w jaki sposób pisać by być zauwaonym](https://steemit.com/dsound/@noisy2/o-czym-i-w-jaki-sposb-pisa-by-by-zauwaonym)
 
 Warto również zapoznać się z innymi podcasatami urzytkownika [@noisy](https://steemit.com/@noisy), dotyczącymi sieci steemit.
 Jego kanał jest dostępny tutaj: [https://soundcloud.com/krzysztof-szumny](https://soundcloud.com/krzysztof-szumny)
