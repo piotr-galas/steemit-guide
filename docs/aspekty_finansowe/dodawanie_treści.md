@@ -1,6 +1,6 @@
-Kiedy dodajemy jakąś treść na steemit.com, czyli artykuł albo komentarz, inne osoby w sieci mogą na niego głosować.
-Odbywa się to analogicznie jak like na facebooku. Zamiast nazwy like, społecznośc używa nazwy upvote.
-Inaczej niż na facebooku można również dać glos ujemny, nazywany downvote lub flagą. Flagi zdarzają się żadko i zwyczajowo jeśli komuś nie podoba się post,
+Kiedy dodajemy jakąś treść na steemit.com, inne osoby w sieci mogą na nią głosować.
+Odbywa się to analogicznie jak like-owanie na facebooku. Zamiast nazwy `like`, społecznośc używa nazwy `upvote`.
+Można również dać glos ujemny, nazywany `downvote` lub `flagą`. Flagi zdarzają się rzadko i zwyczajowo jeśli komuś nie podoba się post,
 to poprostu nie daje upvote.
 
 Kiedy artykuł dostaje upvote-y, autor jest nagradzany odpowiednią ilościa STEEM(STEEM POWER) oraz SBD.
