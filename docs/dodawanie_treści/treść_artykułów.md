@@ -1,6 +1,6 @@
 ## Zasady pisania artykułów:
 
-Na podstawie [ultimatum-dla-niektorych-w-sieci-steem](https://steemit.com/polish/@fervi/ultimatum-dla-niektorych-w-sieci-steem)
+Na podstawie [ultimatum-dla-niektorych-w-sieci-steem](https://steemit.com/polish/@fervi/ultimatum-dla-niektorych-w-sieci-steem) steemianina [@fervi](https://steemit.com/polish/@fervi)
 
 
 

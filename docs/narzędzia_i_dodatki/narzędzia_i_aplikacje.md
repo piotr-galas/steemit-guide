@@ -45,5 +45,5 @@ Bardzo szczegółowe informacje z blockchaina steem w trochę surowej formie.
 **[steemstats.com](https://steemstats.com)**  
 Statystyki zawierające moc głowu, voite weight, oraz to ile zarobimy na upvote.
 
-**[steemit.deadfollowers.info](https://steemit.chat/channel/polish)**  
+**[steemit.deadfollowers.info](http://steemit.deadfollowers.info)**  
 Sprawdzenie którzy z followersów nie są aktywni

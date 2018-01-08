@@ -6,7 +6,8 @@ Jej wysokość zależy od wagi jaką miał nasz głos, czyli od trzech czynnikó
  * Kolejnośc naszego głosu
  
 Jeśli nasz głos oddajemy w pierwszej minucie po opublikowaniu artykułu, wtedy 100% nagrody za nasz głos ląduje u autora artykułu.  
-Jeśli oddajemy głos po 30 minucie, wtedy 100% nagrody za nasz głos ląduje u nas  
+
+Jeśli oddajemy głos po 30 minucie, wtedy 100% nagrody za nasz głos ląduje u nas.  
 Jeśli oddamy nasz głos pomiędzy 0 a 30 minutą, wtedy część nagrody pójdzie do autora a część do nas.  
 
 Każdy upvote obniża wagę naszego głosu o 2%. Oznacza to, że jeśli wykonamy cztery upvoty mając na początku 100% to:

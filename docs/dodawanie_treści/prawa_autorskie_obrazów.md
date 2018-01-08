@@ -1,4 +1,4 @@
-Na podstawie artykułu: [jakie obrazy z sieci możesz wykorzystać do swojego posta](https://steemit.com/polish/@anna.urbanska/jakie-obrazy-z-sieci-mozesz-wykorzystac-do-swojego-posta)
+Na podstawie artykułu: [jakie obrazy z sieci możesz wykorzystać do swojego posta](https://steemit.com/polish/@anna.urbanska/jakie-obrazy-z-sieci-mozesz-wykorzystac-do-swojego-posta) użytkownika [@anna.urbanska](https://steemit.com/@anna.urbanska)
 
 Obrazki z sieci często objęte są prawami autorskimi. Nie można wyszukać dowolnego obrazu w google, a następnie wkleić go na Steemit.
 Trzeba zawsze sprawdzić licencje obrazu którego chcemy użyć. Najlepiej też pod artykułem podać źrudło z którego pochodzi zdjęcie, aby nikt nie miał wątpliwości.
