@@ -18,7 +18,7 @@ Wielu prawników się sprzecza, ale warto nawet dla własnego sumienia napisać 
 Nikt tutaj z wiedzą na temat np. formatowania się nie urodził - ciężką pracą to osiągnęliśmy. Jeśli masz problemy z ortografią to ćwicz (szczególnie gdy komputery poprawiają niepoprawnie napisane wyrazy) - i tak dalej. Nikt tu nie urodził się geniuszem.
 
 **Nie atakuj personalnie nikogo (ani najlepiej żadnych grup).**  
-Nie widzę wielkiego sensu w dzieleniu ludzi na lepszych czy gorszych. Bardzo wiele osób nie lubi żydów, żadnego w życiu nie spotkali - a to też ludzie.
+Nie widzę wielkiego sensu w dzieleniu ludzi na lepszych czy gorszych. Bardzo wiele osób nie lubi Żydów, żadnego w życiu nie spotkali - a to też ludzie.
 
 **Staraj się czasem "domyślać".**  
 Ale jak to?! Po prostu - nie musisz mieć w prawie zapisane "nie wolno pluć na ludzi", a jednak tego (mam nadzieję) nie robisz. Jeśli czegoś nie jesteś pewny, a możesz się bez tego obyć - spróbuj tak zrobić.
@@ -31,5 +31,5 @@ Polskie community jest bardzo pomocne, zawsze możesz zadać pytanie na [chat-ci
 
 [O czym i w jaki sposób pisać by być zauwaonym](https://steemit.com/dsound/@noisy2/o-czym-i-w-jaki-sposb-pisa-by-by-zauwaonym)
 
-Warto również zapoznać się z innymi podcasatami urzytkownika [@noisy](https://steemit.com/@noisy), dotyczącymi sieci steemit.
+Warto również zapoznać się z innymi podcasatami użytkownika [@noisy](https://steemit.com/@noisy), dotyczącymi sieci Steemit.
 Jego kanał jest dostępny tutaj: [https://soundcloud.com/krzysztof-szumny](https://soundcloud.com/krzysztof-szumny)

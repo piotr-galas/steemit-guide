@@ -1,6 +1,6 @@
-Jeśli chcemy wymienić STEEM lub SBD na złotówki trzeba wypłacić je na jedną z giełd które obsługują tą walute.
-Następnym krokiem jest zakupienie takiej waluty, która umożliwia wypłate, z denej giełdy.
-Może to być np Bitcoin.
+Jeśli chcemy wymienić STEEM lub SBD na złotówki trzeba wypłacić je na jedną z giełd, które obsługują tą walute.
+Następnym krokiem jest zakupienie takiej waluty, która umożliwia wypłate, z danej giełdy.
+Może to być np. Bitcoin.
 
 Sam proces został nagrany przez użytkownika [@noisy](https://steemit.com/@noisy)   
 

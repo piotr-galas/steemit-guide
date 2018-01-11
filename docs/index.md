@@ -1,6 +1,6 @@
-## Podstawowe informacje o steemit
+## Podstawowe informacje o Steemit
 
-Najważniejsze informacje można wyczytać w artykule urzytkownika 
+Najważniejsze informacje można wyczytać w artykule użytkownika 
 [@kryptoraport](https://steemit.com/@kryptoraport). Od czytania tego artykułu warto zacząć przygodę ze Steemit.
 
 

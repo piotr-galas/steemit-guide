@@ -1,4 +1,4 @@
-Na podstawie [Steem(it) w pigułce](https://steemit.com/polish/@jamzed/steem-it-w-pigulce) urzytkownika [@jamzed](https://steemit.com/@jamzed)
+Na podstawie [Steem(it) w pigułce](https://steemit.com/polish/@jamzed/steem-it-w-pigulce) użytkownika [@jamzed](https://steemit.com/@jamzed)
 
 ## STEEM
 
