@@ -2,7 +2,7 @@
 
 # steemit.info.pl
 
-> Dokumentacja steemit dla polskiej społeczości.
+> Dokumentacja Steemit dla polskiej społeczności.
 
 - Podstawowe informacje o sieci STEEM i portalu Steemit
 
