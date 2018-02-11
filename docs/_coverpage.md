@@ -7,4 +7,4 @@
 - Podstawowe informacje o sieci STEEM i portalu Steemit
 
 [GitHub](https://github.com/piotr-galas/steemit-guide)
-[Przeglądaj dokumentacje](#przegladaj)
+[Przeglądaj dokumentacje](#podstawowe-informacje-o-steemit)
