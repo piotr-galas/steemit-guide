@@ -1,3 +1,5 @@
+[:rocket:  strona główna](/?id=podstawowe-informacje-o-steemit)
+
 Obliczanie wartości dodanego artykułu
 ======
 
@@ -7,7 +9,7 @@ Kiedy dodajemy jakąś treść na steemit.com, inne osoby w sieci mogą na nią 
 Odbywa się to analogicznie jak like-owanie na Facebooku. Zamiast nazwy `like`, społeczność używa nazwy `upvote`.
 
 <kbd>
-    ![dsd](img/aspekty_finansowe/upvote.png)
+    ![dsd](img/aspekty_finansowe/dodawanie_tresci/upvote.png)
 </kbd>
 
 #### Flaga
@@ -16,7 +18,7 @@ Można również dać głos ujemny, nazywany `downvote` lub `flagą`. Znajduje s
 to po prostu nie daje upvote.
 
 <kbd>
- ![dsd](img/aspekty_finansowe/flaga.png)
+ ![dsd](img/aspekty_finansowe/dodawanie_tresci/flaga.png)
 </kbd>
 
 #### Podział premii
@@ -29,7 +31,7 @@ do osób które na artykuł głosowały.
 Przy publikacji artykułu mamy trzy opcje rozliczania:
 
 <kbd>
-![dsd](img/aspekty_finansowe/wybierz_sposob_rozliczania.png)
+![dsd](img/aspekty_finansowe/dodawanie_tresci/wybierz_sposob_rozliczania.png)
 </kbd>
 
 |  | Opis|

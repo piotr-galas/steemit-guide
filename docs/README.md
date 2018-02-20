@@ -1,7 +1,7 @@
 ## Podstawowe informacje o Steemit
 
 #### Aspekty finasowe
- - [Obliczanie wartości dodanego artykułu](aspekty_finansowe/dodawanie_treści.md)
+ - [Obliczanie wartości dodanego artykułu](aspekty_finansowe/dodawanie_tresci.md)
  - [Obliczanie wartości upvotowania](aspekty_finansowe/upvotowanie.md)
  - [Waluty](aspekty_finansowe/waluty.md)
  - [Wymiana na złotówki](aspekty_finansowe/wymiana_waluty_na_PLN.md)
