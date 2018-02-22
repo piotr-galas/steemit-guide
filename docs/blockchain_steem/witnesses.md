@@ -1,6 +1,31 @@
+Witnesses
+======
+
 Sieć STEEM oparta jest na zdecentralizowanym blockchain-ie. Można wyobrazić to sobie, jako wielką zdecentralizowaną bazę danych.
 Zdecentralizowaną, czyli nie ma jednego serwera na którym zainstalowana jest aplikacja [steemd](https://github.com/steemit/steem), a zamiast tego aplikacja [steemd](https://github.com/steemit/steem) zainstalowana jest na
-wielu komputerach. Pojedynczy komputer wpięty w sieć nazywa się nodem.
+wielu komputerach. Pojedynczy komputer wpięty w sieć nazywa się nodem. Jego właściciel to **Witness**
+
+
+## Głosowanie na Witness
+
+Jeśli udostępniamy zasoby swojego serwera, możemy liczyć na nagrodę w postaci tokenów Steem. Nie wystarczy jednak samo posiadanie noda. Trzeba również mieć poprarcie społeczności.
+Każdy może oddać 30 głosów. Na podsawie tego głosowania powstaje ranking. Im wyżej jest się w rankingu tym więcej dostaje się tokenów Steem.
+Głosować można pod linkiem: [https://steemit.com/~witnesses](https://steemit.com/~witnesses)
+
+<kbd>
+    ![dsd](img/blockchain_steem/witnesses/witnesses_list.png)
+</kbd>
+
+## Polacy wśród Witness
+
+Warto wspomnieć, że w tym zacnym gronie znajdują się również Polacy. 
+
+- [@gtg](https://steemit.com/@gtg)
+- [@jamzed](https://steemit.com/@jamzed)
+
+
+## Rodzaje nodów
+
 W komentarzu do artykułu [Dla początkujących użytkowników Steem](https://steemit.com/polish/@alcik/dla-poczatkujacych-uzytkownikow-steem-troche-o-blockchainie-steem-wynagrodzeniu-kuratorskim-i-kategoriach#@piotr-galas/re-alcik-dla-poczatkujacych-uzytkownikow-steem-troche-o-blockchainie-steem-wynagrodzeniu-kuratorskim-i-kategoriach-20171218t213123167z)
 użytkownik [@jamzed](https://steemit.com/@jamzed) napisał komentarze wyjaśniające role nodów. Oto treść jednego z nich
 
