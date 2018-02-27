@@ -17,4 +17,7 @@
 #### Narzędzia i dodatki
  - [Narzędzia i aplikacje](narzędzia_i_dodatki/narzędzia_i_aplikacje.md)
  - [Zewnętrzne integracje](narzędzia_i_dodatki/zewnetrzne_integracje.md)
+
+#### Społeczność
+ - [Lista użytkowników](spolecznosc/lista_uzytkownikow.md)
  
