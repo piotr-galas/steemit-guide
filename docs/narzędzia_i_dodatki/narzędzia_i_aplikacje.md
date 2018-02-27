@@ -29,6 +29,38 @@ Odpowiednik tweetera, ale oparty o sieć Steem.
 **[steepshot.io](https://steepshot.io/)**
 Odpowiednik instagrama, ale oparty o sieć Steem.
 
+**[Esteem ](http://esteem.ws/)**
+
+Mobilny klient Steem dla systemów iOS oraz Android.
+
+**[chainBB.com](https://chainbb.com/)**
+
+Odpowiednik forum (np. phpBB), ale oparty o sieć Steem.
+
+**[Dlive.io](https://www.dlive.io/)**
+
+Odpowiednik twitch, ale oparty o sieć Steem.
+
+**[dsound.audio](https://dsound.audio/)**
+
+Odpowiednik dsound, ale oparty o sieć Steem.
+
+**[dmania.lol](https://dmania.lol/)**
+
+Odpowiednik 9gag, ale oparty o sieć Steem.
+
+**[SteemPhotos](http://steemphotos.steemhelpers.com)**
+
+Odpowiednik instagrama / flickra, ale oparty o sieć Steem.
+
+**[PeerQuery](https://www.peerquery.com/)**
+
+Odpowiednik StackOverflow / Quora, ale oparty o sieć Steem.
+
+**[strimi](https://strimi.pl/)**
+
+Polska interfejs sieci Steem z dodatkowymi funkcjonalnościami (dodawanie linków, mikroblog)
+
 ## Narzędzia i dodatki
 
 **[steemit.chat/channel/polish](https://steemit.chat/channel/polish)**  
