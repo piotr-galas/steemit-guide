@@ -1,3 +1,8 @@
+[:rocket:  strona główna](/?id=podstawowe-informacje-o-steemit)
+
+Zewnętrzne integracje
+=====
+
 ## Wordpress
 
 Plugin pozwala na wyświetlenie listy artykułów na stronie lub w widgecie  

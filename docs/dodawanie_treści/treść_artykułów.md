@@ -1,4 +1,7 @@
-## Zasady pisania artykułów:
+[:rocket:  strona główna](/?id=podstawowe-informacje-o-steemit)
+
+Zasady pisania artykułów
+=====
 
 Na podstawie [ultimatum-dla-niektorych-w-sieci-steem](https://steemit.com/polish/@fervi/ultimatum-dla-niektorych-w-sieci-steem) steemianina [@fervi](https://steemit.com/polish/@fervi)
 

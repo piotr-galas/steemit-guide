@@ -13,11 +13,13 @@
  - [Prawa autorskie obrazów](dodawanie_treści/prawa_autorskie_obrazow.md)
  - [Tagi](dodawanie_treści/tagi.md)
  - [Jakość artykułów](dodawanie_treści/treść_artykułów.md)
+ 
+#### Polska społeczność
+ - [Lista użytkowników](spolecznosc/lista_uzytkownikow.md) 
 
 #### Narzędzia i dodatki
  - [Narzędzia i aplikacje](narzędzia_i_dodatki/narzędzia_i_aplikacje.md)
  - [Zewnętrzne integracje](narzędzia_i_dodatki/zewnetrzne_integracje.md)
 
-#### Społeczność
- - [Lista użytkowników](spolecznosc/lista_uzytkownikow.md)
+
  

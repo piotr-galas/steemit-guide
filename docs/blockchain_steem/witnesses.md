@@ -1,3 +1,5 @@
+[:rocket:  strona główna](/?id=podstawowe-informacje-o-steemit)
+
 Witnesses
 ======
 
@@ -13,7 +15,7 @@ Każdy może oddać 30 głosów. Na podsawie tego głosowania powstaje ranking. 
 Głosować można pod linkiem: [https://steemit.com/~witnesses](https://steemit.com/~witnesses)
 
 <kbd>
-    ![dsd](img/blockchain_steem/witnesses/witnesses_list.png)
+    ![dsd](../img/blockchain_steem/witnesses/witnesses_list.png)
 </kbd>
 
 ## Polacy wśród Witness

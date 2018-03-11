@@ -30,7 +30,7 @@ Każdy upvote obniża wagę naszego głosu o 2%. Oznacza to, że jeśli wykonamy
 Moc głosu możemy podejrzeć na  [https://steemd.com/](https://steemd.com/)
 
 <kbd>
-    ![dsd](img/aspekty_finansowe/upvotowanie/sila_glosu.png)
+    ![dsd](../img/aspekty_finansowe/upvotowanie/sila_glosu.png)
 </kbd>
 
 Procenty nie są okrągłymi liczbami, ponieważ 2% liczy się od aktualnej mocy.

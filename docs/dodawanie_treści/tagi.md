@@ -1,3 +1,8 @@
+[:rocket:  strona główna](/?id=podstawowe-informacje-o-steemit)
+
+Tagi
+====
+
 ## Dodawanie tagów
 
 Każdy dodany artykuł powinien być otagowany. Pierwszy tag jaki się dodaje, staje się kategorią.
