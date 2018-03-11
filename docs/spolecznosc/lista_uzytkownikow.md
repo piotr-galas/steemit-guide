@@ -1,18 +1,25 @@
-## Lista użytkowników polskiej społeczności
+[:rocket:  strona główna](/?id=podstawowe-informacje-o-steemit)
+
+Lista użytkowników polskiej społeczności
+======
 
 W sieci Steem aktywnie udziela się kilkuset polskich użytkowników. Poniżej znajduje się zestawienie tych najbardziej aktywnych, pogrupowane tematyką.
 
 #### Steem
 
-[lukmarcus](https://steemit.com/@lukmarcus) / [marszum](https://steemit.com/@marszum)
 
-[kurator-polski](https://steemit.com/@kurator-polski)
+|  |  nick | post powitalny|
+|----|-----|--|
+|<img src="https://steemitimages.com/u/lukmarcus/avatar" width="60">|[lukmarcus](https://steemit.com/@lukmarcus) / [marszum](https://steemit.com/@marszum)| [My introduction? I'm just a simple guy with ordinary life. Sometimes weird. Or funny. Maybe both. Play & run!](https://steemit.com/introduceyourself/@lukmarcus/my-introduction-i-m-just-a-simple-guy-with-ordinary-life-sometimes-weird-or-funny-maybe-both-play-and-run)|
+|<img src="https://steemitimages.com/u/kurator-polski/avatar" width="60">|[kurator-polski](https://steemit.com/@kurator-polski)| --- |
+|<img src="https://steemitimages.com/u/noisy/avatar" width="60">|[noisy](https://steemit.com/@noisy) / [noisy2](https://steemit.com/@noisy2)| --- |
+|<img src="https://steemitimages.com/u/sos-steemit/avatar" width="60">|[sos-steemit](https://steemit.com/@sos-steemit)| [S.O.S. Steemit - post powitalny](https://steemit.com/polish/@sos-steemit/s-o-s-steemit-post-powitalny)|
+|<img src="https://steemitimages.com/u/steemit-polska/avatar" width="60">|[steemit-polska](https://steemit.com/@steemit-polska)| --- |
 
-[noisy](https://steemit.com/@noisy) / [noisy2](https://steemit.com/@noisy2)
 
-[sos-steemit](https://steemit.com/@sos-steemit)
 
-[steemit-polska](https://steemit.com/@steemit-polska)
+
+
 
 #### Technologia
 

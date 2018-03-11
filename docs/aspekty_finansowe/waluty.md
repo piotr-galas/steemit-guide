@@ -5,6 +5,10 @@ Waluty
 
 Na podstawie [Steem(it) w pigułce](https://steemit.com/polish/@jamzed/steem-it-w-pigulce) użytkownika [@jamzed](https://steemit.com/@jamzed)
 
+<kbd>
+    ![dsd](../img/aspekty_finansowe/waluty/waluty.png)
+</kbd>
+
 #### STEEM
 
 Pisany dużymi literami reprezentuje token (kryptowalutę) generowany w Steem. Tokenami STEEM możemy obracać tak jak każdą inną walutą, możemy je wysyłać, odbierać, kupować i sprzedawać. Jest jeszcze jedna specjalna operacja POWER UP, która zamieni nasze STEEM na STEEM POWER.

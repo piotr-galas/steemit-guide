@@ -1,3 +1,5 @@
+[:rocket:  strona główna](/?id=podstawowe-informacje-o-steemit)
+
 Wymiana na złotówki
 ======
 
@@ -17,5 +19,5 @@ Warto również zapoznać się z artykułem   [@grzegorz2047](https://steemit.co
 -----
 
 
-Lista giełd obsługujących STEEM: [https://coinmarketcap.com/currencies/steem-dollars/#markets](https://coinmarketcap.com/currencies/steem/#markets)
-Lista giełd obsługujących SBD: [https://coinmarketcap.com/currencies/steem-dollars/#markets](https://coinmarketcap.com/currencies/steem-dollars/#markets)
+ - Lista giełd obsługujących STEEM: [https://coinmarketcap.com/currencies/steem-dollars/#markets](https://coinmarketcap.com/currencies/steem/#markets)
+ - Lista giełd obsługujących SBD: [https://coinmarketcap.com/currencies/steem-dollars/#markets](https://coinmarketcap.com/currencies/steem-dollars/#markets)

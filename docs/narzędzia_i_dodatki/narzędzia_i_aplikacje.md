@@ -1,3 +1,8 @@
+[:rocket:  strona główna](/?id=podstawowe-informacje-o-steemit)
+
+Narzędzia i aplikacje
+=======
+
 Sercem portalu Steemit jest blockchain, na którym zapisywane są artykuły, upvoty, transfery itp.
 Steemit jest tylko jedną z wielu aplikacji, które korzystają ze wspomnianego blockchaina. 
 Aplikacje można podzielić na pełne aplikacje oraz narzędzia.   

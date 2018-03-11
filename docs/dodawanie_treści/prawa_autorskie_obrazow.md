@@ -1,3 +1,8 @@
+[:rocket:  strona główna](/?id=podstawowe-informacje-o-steemit)
+
+Prawa autorskie obrazów
+======
+
 Na podstawie artykułu: [jakie obrazy z sieci możesz wykorzystać do swojego posta](https://steemit.com/polish/@anna.urbanska/jakie-obrazy-z-sieci-mozesz-wykorzystac-do-swojego-posta) użytkownika [@anna.urbanska](https://steemit.com/@anna.urbanska)
 
 Obrazki z sieci często objęte są prawami autorskimi. Nie można wyszukać dowolnego obrazu w Google, a następnie wkleić go na Steemit.
